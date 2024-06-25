@@ -8,4 +8,4 @@
 
 [2. Sales Data Analysis](https://github.com/sxnjai23/afame-technologies/tree/main/Afame%20Technologies/Sales-Data-Analysis)
 
-[3. Titanic Survival Prediction]
+[3. Titanic Survival Prediction](https://github.com/sxnjai23/afame-technologies/tree/main/Afame%20Technologies/Titanic-Survival-Prediction)
